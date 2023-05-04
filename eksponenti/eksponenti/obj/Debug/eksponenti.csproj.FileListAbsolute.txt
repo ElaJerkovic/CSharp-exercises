@@ -1,0 +1,7 @@
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\bin\Debug\eksponenti.exe.config
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\bin\Debug\eksponenti.exe
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\bin\Debug\eksponenti.pdb
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\obj\Debug\eksponenti.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\obj\Debug\eksponenti.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\obj\Debug\eksponenti.exe
+C:\Users\Telica\Desktop\c#\eksponenti\eksponenti\obj\Debug\eksponenti.pdb

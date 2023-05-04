@@ -1,0 +1,2 @@
+C:\Users\Telica\Desktop\c#\13. Roman to Integer\13. Roman to Integer\obj\Debug\13. Roman to Integer.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\13. Roman to Integer\13. Roman to Integer\obj\Debug\13. Roman to Integer.csproj.CoreCompileInputs.cache
