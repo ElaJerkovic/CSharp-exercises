@@ -1,0 +1,16 @@
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.exe
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.deps.json
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.runtimeconfig.json
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.runtimeconfig.dev.json
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.dll
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\WebScraperWeather.pdb
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.AssemblyInfoInputs.cache
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.AssemblyInfo.cs
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.csproj.CopyComplete
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.dll
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.pdb
+C:\Users\Telica\Desktop\c#\WebScraperWeather\WebScraperWeather\obj\Debug\netcoreapp3.1\WebScraperWeather.genruntimeconfig.cache

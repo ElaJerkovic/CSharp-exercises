@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nq5f/ZAZq53ov3K86WJ7qZiKRa6hcIWwEj5nX3QPl5ovS44eeXPhiIauiCEQ+oo/8pnydiLx731s4YYpLkfi7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Telica\\Desktop\\c#\\WebScraperWeather\\WebScraperWeather\\WebScraperWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Telica\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
