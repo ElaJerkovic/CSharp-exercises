@@ -1,0 +1,7 @@
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+C:\Users\Telica\Desktop\c#\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb

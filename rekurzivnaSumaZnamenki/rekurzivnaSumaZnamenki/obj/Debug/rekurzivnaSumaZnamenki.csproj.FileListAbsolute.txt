@@ -1,0 +1,7 @@
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\bin\Debug\rekurzivnaSumaZnamenki.exe.config
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\bin\Debug\rekurzivnaSumaZnamenki.exe
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\bin\Debug\rekurzivnaSumaZnamenki.pdb
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\obj\Debug\rekurzivnaSumaZnamenki.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\obj\Debug\rekurzivnaSumaZnamenki.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\obj\Debug\rekurzivnaSumaZnamenki.exe
+C:\Users\Telica\Desktop\rekurzivnaSumaZnamenki\rekurzivnaSumaZnamenki\obj\Debug\rekurzivnaSumaZnamenki.pdb

@@ -1,0 +1,7 @@
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\obj\Debug\RomanToInt.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\obj\Debug\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\bin\Debug\RomanToInt.exe.config
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\bin\Debug\RomanToInt.exe
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\bin\Debug\RomanToInt.pdb
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\obj\Debug\RomanToInt.exe
+C:\Users\Telica\Desktop\c#\RomanToInt\RomanToInt\obj\Debug\RomanToInt.pdb

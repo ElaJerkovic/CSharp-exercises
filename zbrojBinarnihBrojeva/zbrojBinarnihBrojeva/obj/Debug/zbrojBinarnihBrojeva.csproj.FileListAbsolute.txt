@@ -1,0 +1,7 @@
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\bin\Debug\zbrojBinarnihBrojeva.exe.config
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\bin\Debug\zbrojBinarnihBrojeva.exe
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\bin\Debug\zbrojBinarnihBrojeva.pdb
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\obj\Debug\zbrojBinarnihBrojeva.csproj.AssemblyReference.cache
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\obj\Debug\zbrojBinarnihBrojeva.csproj.CoreCompileInputs.cache
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\obj\Debug\zbrojBinarnihBrojeva.exe
+C:\Users\Telica\Desktop\c#\zbrojBinarnihBrojeva\zbrojBinarnihBrojeva\obj\Debug\zbrojBinarnihBrojeva.pdb
